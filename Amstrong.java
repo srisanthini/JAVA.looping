@@ -18,4 +18,5 @@ public class Amstrong{
         System.out.println("Not Amstrong");
         }   sc.close();
      }
-    }
+
+    
