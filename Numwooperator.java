@@ -13,7 +13,7 @@ public class Numwooperator {
             result += num1;
         }
 
-        // Adjust sign if num2 is negative
+        
         if (num2 < 0) {
             result = -result;
         }
@@ -21,4 +21,5 @@ public class Numwooperator {
         System.out.println("Multiplication of " + num1 + " and " + num2 + " is: " + result);
         sc.close();
     }
+
 }
