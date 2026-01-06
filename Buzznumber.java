@@ -1,4 +1,4 @@
-//Q18. Write a Java program to check whether a given number is a Buzz Number or not.
+
 import java.util.Scanner;
 public class Buzznumber {   
     public static void main(String[] args) {
@@ -13,4 +13,5 @@ public class Buzznumber {
         }
         sc.close();
     }
+
 }
